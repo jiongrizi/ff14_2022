@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="ff14">
+    <serverData>
+      <paths name="ff14">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/ff14" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
